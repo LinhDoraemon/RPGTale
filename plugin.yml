@@ -1,0 +1,13 @@
+name: RPGTale
+version: EARLY-ACCESS-1.0.0a
+author: LinhDoraemon
+api-version: 1.13
+main: com.wingx.pubmine.tale.RPGTale
+commands:
+  choang:
+  rpgtale:
+  setname:
+  addlore:
+  removelore:
+  nangcap:
+  reloadc:
